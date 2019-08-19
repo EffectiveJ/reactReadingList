@@ -1,0 +1,19 @@
+{
+  "name": "reactreadinglist",
+  "version": "1.0.0",
+  "description": "List using React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EffectiveJ/reactReadingList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EffectiveJ/reactReadingList/issues"
+  },
+  "homepage": "https://github.com/EffectiveJ/reactReadingList#readme"
+}
